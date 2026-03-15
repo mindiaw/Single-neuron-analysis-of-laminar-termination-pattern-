@@ -23,7 +23,6 @@ This repository currently includes:
 - `analyze_motif_core.py`: source-layer, enrichment, and stability analyses
 - `analyze_cluster_overlap.py`: FF/FB overlap and cross-assignment analyses
 - `visualize_raw_data.py`: optional descriptive/raw visualizations
-- `test_pipeline.py`: test/validation helper script
 
 ## Environment setup
 
