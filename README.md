@@ -4,7 +4,7 @@ This repository contains the analysis code, curated input tables, and generated 
 
 The workflow maps single-neuron soma coordinates to Allen CCFv3, builds layer-resolved terminal features, clusters neurons by laminar projection profile, and compares motif structure between FF and FB projections.
 
-For the full thesis-style methods description, see [methods_section.md](methods_section.md).
+For the full methods description, see [methods_section.md](methods_section.md).
 
 ## Data and outputs included
 
