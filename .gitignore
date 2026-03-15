@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Editor
+.vscode/
+.idea/
+
+# Project artifacts
+allen_ccf_cache/
+output/
+data/
+
+# Logs
+*.log
