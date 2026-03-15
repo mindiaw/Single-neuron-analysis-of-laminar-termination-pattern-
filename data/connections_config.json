@@ -1,0 +1,226 @@
+[
+  {
+    "name": "VISp_to_VISal_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISal",
+    "soma_csv": "soma_coordinates_VISp_to_VISal_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISal_FF.csv"
+  },
+  {
+    "name": "VISal_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISal",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISal_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISal_to_VISp_FB.csv"
+  },
+    {
+    "name": "VISp_to_VISli_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISli",
+    "soma_csv": "soma_coordinates_VISp_to_VISli_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISli_FF.csv"
+  },
+  {
+    "name": "VISli_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISli",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISli_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISli_to_VISp_FB.csv"
+  },
+  {
+    "name": "VISp_to_ACAd_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "ACAd",
+    "soma_csv": "soma_coordinates_VISp_to_ACAd_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_ACAd_FF.csv"
+  },
+  {
+    "name": "ACAd_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "ACAd",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_ACAd_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_ACAd_to_VISp_FB.csv"
+  },
+   {
+    "name": "VISp_to_VISa_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISa",
+    "soma_csv": "soma_coordinates_VISp_to_VISa_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISa_FF.csv"
+  },
+  {
+    "name": "VISa_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISa",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISa_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISa_to_VISp_FB.csv"
+  },
+    {
+    "name": "VISp_to_VISpor_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISpor",
+    "soma_csv": "soma_coordinates_VISp_to_VISpor_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISpor_FF.csv"
+  }, 
+  {
+    "name": "VISpor_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISpor",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISpor_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISpor_to_VISp_FB.csv"
+  },
+    {
+    "name": "VISp_to_VISl_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISl",
+    "soma_csv": "soma_coordinates_VISp_to_VISl_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISl_FF.csv"
+  },
+   {
+    "name": "VISl_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISl",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISl_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISl_to_VISp_FB.csv"
+  },
+    {
+    "name": "VISp_to_TEa_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "TEa",
+    "soma_csv": "soma_coordinates_VISp_to_TEa_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_TEa_FF.csv"
+  },
+   {
+    "name": "TEa_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "TEa",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_TEa_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_TEa_to_VISp_FB.csv"
+  },
+   {
+    "name": "VISp_to_VISam_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISam",
+    "soma_csv": "soma_coordinates_VISp_to_VISam_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISam_FF.csv"
+  },
+   {
+    "name": "VISam_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISam",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISam_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISam_to_VISp_FB.csv"
+  },
+  {
+    "name": "VISp_to_VISpm_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISpm",
+    "soma_csv": "soma_coordinates_VISp_to_VISpm_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISpm_FF.csv"
+  },
+   {
+    "name": "VISpm_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISpm",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISpm_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISpm_to_VISp_FB.csv"
+  },
+  {
+    "name": "VISp_to_VISpl_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISpl",
+    "soma_csv": "soma_coordinates_VISp_to_VISpl_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISpl_FF.csv"
+  },
+   {
+    "name": "VISpl_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISpl",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISpl_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISpl_to_VISp_FB.csv"
+  },
+   {
+    "name": "VISp_to_VISrl_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "VISrl",
+    "soma_csv": "soma_coordinates_VISp_to_VISrl_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_VISrl_FF.csv"
+  },
+   {
+    "name": "VISrl_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "VISrl",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_VISrl_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISrl_to_VISp_FB.csv"
+  },
+   {
+    "name": "VISp_to_RSPd_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "RSPd",
+    "soma_csv": "soma_coordinates_VISp_to_RSPd_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_RSPd_FF.csv"
+  },
+   {
+    "name": "RSPd_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "RSPd",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_RSPd_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_RSPd_to_VISp_FB.csv"
+  },
+  {
+    "name": "VISp_to_RSPv_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "RSPv",
+    "soma_csv": "soma_coordinates_VISp_to_RSPv_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_RSPv_FF.csv"
+  },
+   {
+    "name": "RSPv_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "RSPv",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_RSPv_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_RSPv_to_VISp_FB.csv"
+  },
+  {
+    "name": "VISp_to_RSPagl_FF",
+    "direction": "FF",
+    "source_area": "VISp",
+    "target_area": "RSPagl",
+    "soma_csv": "soma_coordinates_VISp_to_RSPagl_FF.csv",
+    "terminal_csv": "terminal_points_byNeuron_VISp_to_RSPagl_FF.csv"
+  },
+   {
+    "name": "RSPagl_to_VISp_FB",
+    "direction": "FB",
+    "source_area": "RSPagl",
+    "target_area": "VISp",
+    "soma_csv": "soma_coordinates_RSPagl_to_VISp_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_RSPagl_to_VISp_FB.csv"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "CA1_to_VISpor_FF",
+    "direction": "FF",
+    "source_area": "CA1",
+    "target_area": "VISpor",
+    "soma_csv": "soma_coordinates_CA1_to_VISpor_FB.csv",
+    "terminal_csv": "terminal_points_byNeuron_CA1_to_VISpor_FB.csv",
+    "axon_length_csv": "axon_length_byNeuron_CA1_to_VISpor_FB.csv"
+  }
+]
